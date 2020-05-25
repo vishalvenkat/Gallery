@@ -10,7 +10,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./info-components.component.css']
 })
 export class InfoComponentsComponent implements OnInit {
-displayText = 'Gallery application helps you to view various beautiful cities in and around the world.' +
+displayText = 'Gallery application helps you to view various beautiful cities across the world.' +
   ' Start by selecting each of the category to view the city.';
   constructor() { }
 

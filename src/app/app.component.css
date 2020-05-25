@@ -1,0 +1,17 @@
+.logo {
+  display: inherit;
+  text-align: center;
+  color: aliceblue;
+  background-color: #404040;
+  font-size: 36px;
+  line-height: 180%;
+  justify-content: center;
+}
+
+.box{
+  display:inline-block;
+  height: 80vh;
+  width: 49%;
+  text-align: center;
+  margin-top: 50px;
+}

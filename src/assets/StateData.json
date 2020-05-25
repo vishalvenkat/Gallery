@@ -1,0 +1,22 @@
+[
+  {
+    "state" : "Tamil Nadu",
+    "cities" : ["Chennai","Madurai","Coimbatore","Tanjore"]
+  },
+  {
+    "state" : "Karnataka",
+    "cities" : ["Bangalore","Mangalore","Mysore"]
+  },
+  {
+    "state" : "Maharashtra",
+    "cities" : ["Mumbai","Nagpur"]
+  },
+  {
+    "state" : "New york",
+    "cities" : ["New York city","Long Island","Hudson valley"]
+  },
+  {
+    "state" : "New Jersey",
+    "cities" : ["Vernon township","Hopewell Township"]
+  }
+]

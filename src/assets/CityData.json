@@ -1,0 +1,58 @@
+[
+  {
+    "city" : "Chennai",
+    "image" : 1
+  },
+  {
+    "city" : "Madurai",
+    "image" : 2
+  },
+  {
+    "city" : "Coimbatore",
+    "image" : 3
+  },
+  {
+    "city" : "Tanjore",
+    "image" : 4
+  },
+  {
+    "city" : "Bangalore",
+    "image" : 5
+  },
+  {
+    "city" : "Mangalore",
+    "image" : 6
+  },
+  {
+    "city" : "Mysore",
+    "image" : 7
+  },
+  {
+    "city" : "Mumbai",
+    "image" : 8
+  },
+  {
+    "city" : "Nagpur",
+    "image" : 9
+  },
+  {
+    "city" : "New York city",
+    "image" : 10
+  },
+  {
+    "city" : "Long Island",
+    "image" : 11
+  },
+  {
+    "city" : "Hudson valley",
+    "image" : 12
+  },
+  {
+    "city" : "Vernon township",
+    "image" : 13
+  },
+  {
+    "city" : "Hopewell Township",
+    "image" : 14
+  }
+]

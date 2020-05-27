@@ -1,58 +1,58 @@
 [
   {
     "city" : "Chennai",
-    "image" : 1
+    "image" : "../../assets/images/Chennai.jpg"
   },
   {
     "city" : "Madurai",
-    "image" : 2
+    "image" : "./assets/images/Madurai.jpg"
   },
   {
     "city" : "Coimbatore",
-    "image" : 3
+    "image" : "./assets/images/Coimbatore.jpg"
   },
   {
     "city" : "Tanjore",
-    "image" : 4
+    "image" : "./assets/images/Tanjore.jpg"
   },
   {
     "city" : "Bangalore",
-    "image" : 5
+    "image" : "../../assets/images/Bangalore.jpg"
   },
   {
     "city" : "Mangalore",
-    "image" : 6
+    "image" : "./assets/images/Mangalore.jpg"
   },
   {
     "city" : "Mysore",
-    "image" : 7
+    "image" : "./assets/images/Mysore.jpg"
   },
   {
     "city" : "Mumbai",
-    "image" : 8
+    "image" : "./assets/images/Mumbai.jpg"
   },
   {
     "city" : "Nagpur",
-    "image" : 9
+    "image" : "./assets/images/Nagpur.jpg"
   },
   {
     "city" : "New York city",
-    "image" : 10
+    "image" : "./assets/images/New York City.jpg"
   },
   {
     "city" : "Long Island",
-    "image" : 11
+    "image" : "./assets/images/Long Island.jpg"
   },
   {
     "city" : "Hudson valley",
-    "image" : 12
+    "image" : "./assets/images/Hudson Valley.jpg"
   },
   {
     "city" : "Vernon township",
-    "image" : 13
+    "image" : "./assets/images/Vernon Township.jpg"
   },
   {
     "city" : "Hopewell Township",
-    "image" : 14
+    "image" : "./assets/images/Hopewell Township.jpg"
   }
 ]

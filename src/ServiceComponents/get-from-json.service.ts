@@ -53,10 +53,13 @@ CityData;
         break;
       }
     }
+    console.log('city name function');
     return this.cityList;
   }
   getImage(city) {
+    console.log('service called to return image');
     for (const itr in this.CityData) {
+      console.log(this.CityData[itr].city);
       if (this.CityData[itr].city === city) {
       return this.CityData[itr].image;
       }

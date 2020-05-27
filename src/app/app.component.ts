@@ -29,7 +29,7 @@ import {GetFromJsonService} from '../ServiceComponents/get-from-json.service';
       </mat-form-field><br /><br />
   </div>
     <div class="box" *ngIf="City">
-        {{getImage()}}
+        <img [src]="getImage()">
     </div>
   `,
   styleUrls: ['./app.component.css']
@@ -62,6 +62,8 @@ export class AppComponent {
     this.cityList = this.serviceObject.getCityName(this.State);
   }
   getImage() {
-return this.serviceObject.getImage(this.City);
+    const image = this.serviceObject.getImage(this.City);
+    console.log(image);
+    return image;
   }
 }

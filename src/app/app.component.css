@@ -10,8 +10,12 @@
 
 .box{
   display:inline-block;
-  height: 80vh;
+  height: 70vh;
   width: 49%;
   text-align: center;
   margin-top: 50px;
+}
+img {
+  height: 50%;
+  width: 50%;
 }
